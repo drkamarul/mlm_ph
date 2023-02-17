@@ -8,10 +8,21 @@ editor: visual
 ## About me
 
 KIM
+med
+USM
 
 ## Motivation
 
+<<<<<<< HEAD
 ## Objectives
+=======
+A
+B
+
+
+## Objectives 
+
+>>>>>>> 325472aa774eec01c1c882e4cfcf0ca7ab2183ae
 
 ## What to expect
 
