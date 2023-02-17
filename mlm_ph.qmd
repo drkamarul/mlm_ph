@@ -54,6 +54,9 @@ B
 
 ### Hands-on
 
+## References
+
+https://bookdown.org/roback/bookdown-BeyondMLR/#about-the-authors 
 
 
 
