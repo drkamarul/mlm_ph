@@ -9,9 +9,14 @@ editor: visual
 ## About me
 
 KIM
+med
+USM
 
 
 ## Motivation
+
+A
+B
 
 
 ## Objectives 
