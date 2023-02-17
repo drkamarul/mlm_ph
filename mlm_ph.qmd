@@ -5,50 +5,36 @@ format: html
 editor: visual
 ---
 
-
 ## About me
 
 KIM
 
-
 ## Motivation
 
-
-## Objectives 
-
+## Objectives
 
 ## What to expect
 
-
 ## What not to expect
-
 
 ## Single level data and multi level data
 
 ### Types of data
 
-
 ## Models 1
 
-### Concept 
-
+### Concept
 
 ### Hands-on
 
 ## Models 2
 
-### Concept 
-
+### Concept
 
 ### Hands-on
 
 ## Models 3
 
-### Concept 
-
+### Concept
 
 ### Hands-on
-
-
-
-
