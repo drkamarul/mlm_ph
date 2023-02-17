@@ -1,0 +1,52 @@
+---
+title: "Analysis of Multilevel Models for Public Health Researchers"
+author: "Kamarul Imran"
+format: html
+editor: visual
+---
+
+
+## About me
+
+
+## Motivation
+
+
+## Objectives 
+
+
+## What to expect
+
+
+## What not to expect
+
+
+## Single level data and multi level data
+
+### Types of data
+
+
+## Models 1
+
+### Concept 
+
+
+### Hands-on
+
+## Models 2
+
+### Concept 
+
+
+### Hands-on
+
+## Models 3
+
+### Concept 
+
+
+### Hands-on
+
+
+
+
